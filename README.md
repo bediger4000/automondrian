@@ -16,7 +16,7 @@ This is another entry in the
 [long line of programs](http://noll.uscannenberg.org/Art%20Papers/Mondrian.pdf)
 to generate Mondrian-like artwork.
 
-![Example Mondrianesque Art](https://raw.githubusercontent.com/bediger4000/automondiran/master/example.png)
+![Example Mondrianesque Art](https://raw.githubusercontent.com/bediger4000/automondrian/master/example.png)
 
 #Installation
 
