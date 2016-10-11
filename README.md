@@ -12,6 +12,8 @@ The very sketchiness that PHP is famous for can be used to great effect
 in generating "surprising" images. Now you too, can have Art,
 and generate Art, if you have a PHP-enabled website.
 
+[Try it here!](http://stratigery.com/automondrian.php)
+
 This is another entry in the
 [long line of programs](http://noll.uscannenberg.org/Art%20Papers/Mondrian.pdf)
 to generate Mondrian-like artwork.
