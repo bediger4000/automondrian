@@ -16,6 +16,8 @@ This is another entry in the
 [long line of programs](http://noll.uscannenberg.org/Art%20Papers/Mondrian.pdf)
 to generate Mondrian-like artwork.
 
+![Example Mondrianesque Art](https://raw.githubusercontent.com/bediger4000/automondiran/master/example.png)
+
 #Installation
 
 Put the files `automondrian.php` and `mond.php` in your PHP-enabled website, probably
