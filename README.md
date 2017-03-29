@@ -1,4 +1,4 @@
-#Mondrian Image Generator
+# Mondrian Image Generator
 
 I saw a web page 
 [Mondrianizer in the functional language F#](http://www.clear-lines.com/blog/post/Transform-a-picture-in-the-style-of-Mondrian-with-FSharp.aspx).
@@ -20,13 +20,13 @@ to generate Mondrian-like artwork.
 
 ![Example Mondrianesque Art](https://raw.githubusercontent.com/bediger4000/automondrian/master/example.png)
 
-#Installation
+# Installation
 
 Put the files `automondrian.php` and `mond.php` in your PHP-enabled website, probably
 in the same directory. Call `automondrian.php` in your browser. Boom! Mondrian-like
 images at your disposal.
 
-#Mondrian links
+# Mondrian links
 
 * [Mondrian in JavaScript](http://www.dl.unospace.net/mondrian/)
 * [More on Mondrian in JavaScript](http://vart.institute/mondrian/index.html)
