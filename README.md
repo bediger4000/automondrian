@@ -28,10 +28,11 @@ images at your disposal.
 
 # Mondrian links
 
+* [Mondrian Tiles](https://github.com/nvdv/mondrianify)
 * [Mondrian in JavaScript](http://www.dl.unospace.net/mondrian/)
 * [More on Mondrian in JavaScript](http://vart.institute/mondrian/index.html)
 * [Mondrimat](http://www.stephen.com/mondrimat/)
-* [Auto-Mondrian</li>](http://www.green-lion.net/mondrian_image.html)
+* [Auto-Mondrian](http://www.green-lion.net/mondrian_image.html)
 * [AutoMondrian](http://ooer.com/automondrian/)
 * [A contest, now, unfortunately, closed.](https://news.ycombinator.com/item?id=5042963)
 * [A Jackson Pollock program](http://tombooth.co.uk/painting-in-clojure/)
