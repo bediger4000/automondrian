@@ -38,3 +38,4 @@ images at your disposal.
 * [AutoMondrian](http://ooer.com/automondrian/)
 * [A contest, now, unfortunately, closed.](https://news.ycombinator.com/item?id=5042963)
 * [A Jackson Pollock program](http://tombooth.co.uk/painting-in-clojure/)
+* [Mondrians, some animated](https://github.com/okayzed/mondrians)
