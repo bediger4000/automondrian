@@ -36,6 +36,7 @@ images at your disposal.
 * [Mondrimat](http://www.stephen.com/mondrimat/)
 * [Auto-Mondrian](http://www.green-lion.net/mondrian_image.html)
 * [AutoMondrian](http://ooer.com/automondrian/)
+* [Creating Art](https://arxiv.org/abs/1801.04486v2)
 * [A contest, now, unfortunately, closed.](https://news.ycombinator.com/item?id=5042963)
 * [A Jackson Pollock program](http://tombooth.co.uk/painting-in-clojure/)
 * [Mondrians, some animated](https://github.com/okayzed/mondrians)
