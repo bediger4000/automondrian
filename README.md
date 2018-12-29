@@ -39,4 +39,5 @@ images at your disposal.
 * [Creating Art](https://arxiv.org/abs/1801.04486v2)
 * [A contest, now, unfortunately, closed.](https://news.ycombinator.com/item?id=5042963)
 * [A Jackson Pollock program](http://tombooth.co.uk/painting-in-clojure/)
+* [Rothko-esque generated art](https://patternsofideas.github.io/posts/rothkos/)
 * [Mondrians, some animated](https://github.com/okayzed/mondrians)
